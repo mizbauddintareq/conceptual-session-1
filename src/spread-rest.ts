@@ -16,3 +16,9 @@ const scoreCount = (...score: number[]): number => {
   return total;
 };
 console.log(scoreCount(1, 2, 3, 4, 10));
+
+const names = (...params: string[]): void => {
+  params.map((n) => console.log(n));
+};
+
+names("abul", "babul", "kabul");
