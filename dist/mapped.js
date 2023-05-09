@@ -5,3 +5,4 @@ const friends1 = {
     friend3: "Babul",
     friend4: "kabul",
 };
+// friends1.friend2 = "Mamam"

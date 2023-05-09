@@ -15,3 +15,5 @@ const friends1: FriendsTypeReadOnly = {
   friend3: "Babul",
   friend4: "kabul",
 };
+
+// friends1.friend2 = "Mamam"
