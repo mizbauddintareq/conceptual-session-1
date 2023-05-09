@@ -41,6 +41,8 @@ const myInfo3: IMyInfoGen<number, string> = {
   mark: "2.3",
 };
 
+// KeyOff
+
 type MyMovie = {
   name: string;
   duration: number;
